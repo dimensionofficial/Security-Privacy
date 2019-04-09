@@ -1,2 +1,2 @@
 # Security
-Security issues and challenges that Dim-G may face
+Security issues and challenges that Dimension-G may face
